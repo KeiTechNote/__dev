@@ -9,8 +9,8 @@ tags: [blog, dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
 
 # github.io 블로그 만들기 순서
 
-1. minimal-mistakes-jekyll github 사이트에서 소스코드를 다운로드합니다.
-2. 내 Github 에 저장될 Repository 이름을 지정합니다.
+1. minimal-mistakes-jekyll 테마의 github 사이트에서 소스코드를 다운로드합니다.
+2. 다운로드한 테마를 내 Github Repository 에 Commit 합니다.
 3. 내 Github 에 저장된 Repository 로 이동해 상단의 "Settings" 메뉴를 선택합니다.
 4. 좌측 메뉴 중 "Pages"를 선택합니다. 
 5. 앞으로 게시될 Post가 저장될 Branch를 지정합니다. 
