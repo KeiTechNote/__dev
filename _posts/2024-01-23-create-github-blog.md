@@ -3,15 +3,22 @@ layout: post
 title: github.io 블로그 만들기
 date: 2024-01-23 05:30 +09:00
 published: true
-categories: [blog]
-tags: [blog, dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
+categories: [Vault]
+tags: [Blog, Dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
 ---
 
 # github.io 블로그 만들기 순서
 
-1. minimal-mistakes-jekyll 테마의 github 사이트에서 소스코드를 다운로드합니다.
-2. 다운로드한 테마를 내 Github Repository 에 Commit 합니다.
-3. 내 Github 에 저장된 Repository 로 이동해 상단의 "Settings" 메뉴를 선택합니다.
-4. 좌측 메뉴 중 "Pages"를 선택합니다. 
-5. 앞으로 게시될 Post가 저장될 Branch를 지정합니다. 
-6. Post 를 지정된 Branch 에 저장하면 블로그에 자동 게시되도록 Git Action 을 선택합니다.
+1. minimal-mistakes-jekyll github 사이트에서 "Clone" 또는 "Download ZIP"을 선택합니다.
+
+### "Clone" 을 선택한 경우
+2. "Clone"을 선택할 경우, 내 Github 에 저장될 Repository 이름을 지정합니다. 
+
+### "Download ZIP" 을 선택한 경우
+2-1. "Download ZIP"을 선택 할 경우, 내 Github 에 저장할 Repository 를 만듭니다. 
+2-2. 다운받은 ZIP 파일을 압축을 풀어, 내 Github 에 업로드합니다.
+
+### 공통
+3. Repository 에 minimal-mistakes-jekyll 가 저장이 완료되면, 내 Github 에서 상단의 "Settings" 메뉴로 이동합니다. 
+4. 메뉴 중 "Pages"로 이동합니다. 
+5. "Build and Deployment" 항목에서 "Branch" 부분을 앞으로 게시될 Post 가 저장될 Branch 로 지정합니다. 
