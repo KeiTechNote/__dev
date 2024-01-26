@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: github.io 블로그 만들기
 date: 2024-01-23 05:30 +09:00
 published: true
