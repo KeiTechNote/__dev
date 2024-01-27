@@ -4,7 +4,7 @@ title: github.io 블로그 만들기
 date: 2024-01-23 05:30 +09:00
 published: true
 categories: [Vault]
-tags: [Blog, Dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
+tag: [Blog, Dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
 ---
 
 # github.io 블로그 만들기 순서
