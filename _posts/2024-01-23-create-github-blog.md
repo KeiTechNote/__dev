@@ -6,6 +6,10 @@ published: true
 categories: [Vault]
 tag: [Blog, Dev, github.io, 블로그, minimal-mistakes-jekyll, jekyll, theme]
 toc: true
+author_profile: false
+#search: false
+sidebar:
+    nav: "docs"
 ---
 
 # github.io 블로그 만들기 순서
